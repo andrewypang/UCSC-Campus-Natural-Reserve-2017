@@ -13,3 +13,5 @@ GIS Mapping
 
 January 2017 – March 2017
 - Coordinated with a small team to collect forest trail data using geographic information systems(ArcGIS) to establish short-term and long-term plans for forest conservation.
+
+![GIS Mapping 2017](TrailMappingWinter2017MapTrails+Labels.pdf)
